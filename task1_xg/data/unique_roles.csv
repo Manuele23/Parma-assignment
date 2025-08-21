@@ -1,0 +1,26 @@
+role,macro_role
+Goalkeeper,GK
+Left Back,DEF
+Left Center Back,DEF
+Center Back,DEF
+Right Center Back,DEF
+Right Back,DEF
+Left Wing Back,DEF
+Left Defensive Midfield,MID
+Left Center Midfield,MID
+Center Defensive Midfield,MID
+Center Midfield,MID
+Center Attacking Midfield,MID
+Right Center Midfield,MID
+Right Defensive Midfield,MID
+Right Wing Back,DEF
+Left Midfield,MID
+Right Midfield,MID
+Left Attacking Midfield,MID
+Right Attacking Midfield,MID
+Left Wing,FWD
+Right Wing,FWD
+Left Center Forward,FWD
+Center Forward,FWD
+Right Center Forward,FWD
+Secondary Striker,FWD

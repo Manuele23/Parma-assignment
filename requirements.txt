@@ -19,3 +19,10 @@ tqdm>=4.67.0
 
 # Football data
 statsbombpy>=1.13.0
+
+# Web app demo
+streamlit>=1.36.0
+joblib>=1.4.0   # for save and loading trained models
+
+# Optional
+plotly>=5.22.0  # for interactive plots

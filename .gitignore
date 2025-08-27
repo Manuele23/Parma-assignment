@@ -1,0 +1,2 @@
+# Ignore Random Forest model (too large)
+task1_xg/models/model_rf.pkl.DS_Store

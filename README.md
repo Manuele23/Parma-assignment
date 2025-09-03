@@ -5,9 +5,11 @@
 ![StatsBombPy](https://img.shields.io/badge/StatsBombPy-1.13.0-red.svg)
 ![pandas](https://img.shields.io/badge/pandas-2.2.0-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-orange.svg)
-![xgboost](https://img.shields.io/badge/xgboost-2.0.0-green.svg)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.9.0-yellow.svg)
 ![seaborn](https://img.shields.io/badge/seaborn-0.13.0-teal.svg)
+
+<img src="https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/Parmastemma.png/972px-Parmastemma.png?20130510204047" alt="Parma Calcio Logo" width="90" align="right"/>
+
 
 This repository contains my solution to the **Parma Calcio 1913 Data Scientist technical assignment**.  
 The project is divided into two main tasks, each organized in its own folder:

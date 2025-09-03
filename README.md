@@ -4,6 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![StatsBombPy](https://img.shields.io/badge/StatsBombPy-1.13.0-red.svg)
 ![pandas](https://img.shields.io/badge/pandas-2.2.0-blue.svg)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-orange.svg)
 ![xgboost](https://img.shields.io/badge/xgboost-2.0.0-green.svg)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.9.0-yellow.svg)
